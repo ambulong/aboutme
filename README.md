@@ -18,6 +18,12 @@
 
 * 2017-11-09 [Wordpress <= 4.8.2 SQL Injection POC](https://github.com/ambulong/aboutme/blob/master/posts/2017-11-09-Wordpress-4-8-2-SQL-Injection-POC.md)
 
+* 2018-06-10 [phpMyAdmin 4.7.x CSRF 漏洞利用](http://blog.vulnspy.com/2018/06/10/phpMyAdmin-4-7-x-XSRF-CSRF-vulnerability-exploit/)
+
+* 2018-06-12 [phpMyAdmin 4.7.x XSRF/CSRF Vulnerability (PMASA-2017-9) Exploit](http://blog.vulnspy.com/2018/06/12/phpMyAdmin-4-7-x-XSRF-CSRF-vulnerability-PMASA-2017-9-exploit/)
+
+* 2018-06-21 [http://blog.vulnspy.com/2018/06/21/phpMyAdmin-4-8-x-Authorited-CLI-to-RCE/](http://blog.vulnspy.com/2018/06/21/phpMyAdmin-4-8-x-Authorited-CLI-to-RCE/)
+
 ### # Vulnerabilities
 
 * [CVE-2017-1000170: jqueryFileTree 2.1.5 and older Directory Traversal](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000170)
