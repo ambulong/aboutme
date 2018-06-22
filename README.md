@@ -22,7 +22,7 @@
 
 * 2018-06-12 [phpMyAdmin 4.7.x XSRF/CSRF Vulnerability (PMASA-2017-9) Exploit](http://blog.vulnspy.com/2018/06/12/phpMyAdmin-4-7-x-XSRF-CSRF-vulnerability-PMASA-2017-9-exploit/)
 
-* 2018-06-21 [http://blog.vulnspy.com/2018/06/21/phpMyAdmin-4-8-x-Authorited-CLI-to-RCE/](http://blog.vulnspy.com/2018/06/21/phpMyAdmin-4-8-x-Authorited-CLI-to-RCE/)
+* 2018-06-21 [phpMyAdmin 4.8.x LFI to RCE (Authorization Required)](http://blog.vulnspy.com/2018/06/21/phpMyAdmin-4-8-x-Authorited-CLI-to-RCE/)
 
 ### # Vulnerabilities
 
